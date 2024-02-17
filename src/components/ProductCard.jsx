@@ -1,7 +1,5 @@
 import React from "react";
-import img from "../assets/SIPR04018_01 1.png";
 import bag from "../assets/Group 450.png";
-import { CSSProperties } from "react";
 import ClipLoader from "react-spinners/ClipLoader";
 
 const ProductCard = (props) => {
